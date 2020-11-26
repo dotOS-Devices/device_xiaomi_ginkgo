@@ -378,6 +378,14 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             <name>IWifiStats</name>
             <instance>wifiStats</instance>
         </interface>
+        <name>vendor.lineage.livedisplay</name>
+        <transport>hwbinder</transport>
+        <version>2.0</version>
+        <interface>
+            <name>IPictureAdjustment</name>
+            <instance>default</instance>
+        </interface>
+        <fqname>@2.0::IPictureAdjustment/default</fqname>
     </hal>
     <hal format="hidl">
         <name>vendor.qti.data.factory</name>

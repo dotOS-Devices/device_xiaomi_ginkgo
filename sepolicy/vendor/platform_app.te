@@ -1,0 +1,1 @@
+allow platform_app pocket_service:service_manager { find };

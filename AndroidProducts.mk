@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2020 ArrowOS
+# Copyright (C) 2020 DotOS
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_ginkgo.mk
+    $(LOCAL_DIR)/dot_ginkgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_ginkgo-user \
-    arrow_ginkgo-userdebug \
-    arrow_ginkgo-eng
+    dot_ginkgo-user \
+    dot_ginkgo-userdebug \
+    dot_ginkgo-eng

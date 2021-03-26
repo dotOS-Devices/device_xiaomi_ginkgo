@@ -1,0 +1,21 @@
+ 
+[
+  {
+    "repository": "android_device_xiaomi_ginkgo",
+    "target_path": "device/xiaomi/ginkgo",
+    "branch": "dot11",
+    "remote": "github"
+  },
+  {
+    "repository": "android_kernel_xiaomi_ginkgo",
+    "target_path": "kernel/xiaomi/ginkgo",
+    "branch": "dot11",
+    "remote": "github" 
+  },
+  {
+    "repository": "android_vendor_xiaomi_ginkgo",
+    "target_path": "vendor/xiaomi/ginkgo",
+    "branch": "dot11",
+    "remote": "github"
+  }
+]

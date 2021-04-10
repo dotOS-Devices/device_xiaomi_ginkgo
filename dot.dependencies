@@ -1,4 +1,3 @@
- 
 [
   {
     "repository": "android_device_xiaomi_ginkgo",
@@ -15,6 +14,12 @@
   {
     "repository": "android_vendor_xiaomi_ginkgo",
     "target_path": "vendor/xiaomi/ginkgo",
+    "branch": "dot11",
+    "remote": "github"
+  },
+  {
+    "repository": "android_vendor_miuicamera_ginkgo",
+    "target_path": "vendor/miuicamera",
     "branch": "dot11",
     "remote": "github"
   }

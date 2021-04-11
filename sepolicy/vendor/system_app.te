@@ -16,3 +16,4 @@ allow system_app sysfs_battery_supply:file { read };
 allow system_app sysfs_battery_supply:file { open };
 allow system_app sysfs_battery_supply:file { getattr }; 
 
+allow system_app sysfs_fcharge:file rw_file_perms;

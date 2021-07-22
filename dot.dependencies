@@ -19,18 +19,6 @@
 	},
 	{
 		"remote": "github",
-		"repository": "LineageOS/android_vendor_nxp_opensource_halimpl",
-		"target_path": "vendor/nxp/opensource/sn100x/halimpl",
-		"branch": "lineage-18.1-sn100x"
-	},
-	{
-		"remote": "github",
-		"repository": "LineageOS/android_vendor_nxp_opensource_hidlimpl",
-		"target_path": "vendor/nxp/opensource/sn100x/hidlimpl",
-		"branch": "lineage-18.1-sn100x"
-	},
-	{
-		"remote": "github",
 		"repository": "ArrowOS/android_hardware_qcom_display",
 		"target_path": "hardware/qcom-caf/sm8150-ginkgo/display",
 		"branch": "arrow-11.0-caf-sm8150"
